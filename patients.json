@@ -1,0 +1,1334 @@
+{
+    "patients": [
+    {
+        "id": "2",
+        "title": "P.L.",
+        "age": "61",
+        "file": "patient-002.xml",
+        "progType": "Recurrence",
+        "timeValue":1,
+        "prog": "&le;12 Months<sup>*</sup>",
+        "siteValue": 2,
+        "loc": "Liver",
+        "symp": "Mild/Moderate",
+        "symptomValue":1,
+        "image": { "src": "images/profiles/02.png" },
+        "summary": "<ul><li>61 years of age</li><li>Recurrence &le;12 months postadjuvant therapy</li><li>Liver metastases</li><li>Mild/moderate symptoms</li></ul>",
+        "banner": "<b><span>25.8<span class=\"percentage\">%</span></span> of CONFIRM<sup>†</sup> patients had liver<br>metastases at baseline.</b><sup>1,‡</sup>",
+        "status": {
+            "row": [
+                "Woman aged 61 years with a history of breast cancer",
+            "Patient completed 5 years of adjuvant hormonal therapy (HT) (tamoxifen) 7 months ago",
+            "Patient presents with moderate fatigue and mild right abdominal&nbsp;pain",
+            "Physical examination reveals right upper quadrant (RUQ) tenderness",
+            "ECOG<sup>§</sup> Performance Status: 1"
+                ]
+        },
+        "imaging": { "row": "Bone scan, brain magnetic resonance imaging (MRI), and chest/pelvic/abdominal computed tomography (CT) scans show three 1- to 2-cm masses in liver (1 in left hepatic lobe, 2 in right hepatic lobe)" },
+        "testing": {
+            "row": [
+                "Liver mass biopsy confirms metastatic disease with estrogen receptor (ER)+/progesterone receptor (PgR)+, human epidermal growth factor receptor-2 (HER2) negative status with pathology consistent with primary tumor",
+            "Laboratory values:<ul><li class=\"dash\">Hemoglobin: 11.5 mg/dL</li><li class=\"dash\">Elevated cancer antigen CA 27.29: 175 U/mL</li><li class=\"dash\">Normal liver function tests</li></ul>"
+                ]
+        },
+        "footnotes": {
+            "row": [
+                "<sup>*</sup>Recurrence during or within 12 months of completing adjuvant hormonal therapy (tamoxifen).<br>",
+            "<sup>†</sup><b><span style=\"font-family: arial; font-weight: bold;\">CO</span></b>mpariso<b>N</b> of <b>F</b>ASLODEX <b>I</b>n <b>R</b>ecurrent or <b>M</b>etastatic Breast Cancer.<sup>2</sup><br>",
+            "<sup>‡</sup>Total number of patients=736. Patients with multiple lesions in the same site are<br><div class=\"adjustRight\">counted only once in that site.<sup>1</sup></div>",
+            "<sup>§</sup>Eastern Cooperative Oncology Group."
+                ]
+        },
+        "references": {
+            "row": [
+                "Data on File, 1390903. AstraZeneca Pharmaceuticals LP.",
+            "Di Leo A, Jerusalem G, Petruzelka L, et al. Results of the CONFIRM phase III trial comparing fulvestrant <br />250 mg with fulvestrant 500 mg in postmenopausal women with estrogen receptor–positive advanced <br />breast cancer. <i>J Clin Oncol.</i> 2010;28(30):4594-4600."
+                                                                                                                                                                                                                                                                                  ]
+        }
+    },
+    {
+        "id": "3",
+        "title": "M.K.",
+        "age": "72",
+        "file": "patient-003.xml",
+        "progType": "Progression",
+        "timeValue":2,
+        "prog": "&gt;12 Months<sup>*</sup>",
+        "siteValue": 2,
+        "loc": "Liver",
+        "symp": "Asymptomatic",
+        "symptomValue":2,
+        "image": { "src": "images/profiles/03.png" },
+        "banner": "<b><span>25.8<span class=\"percentage\">%</span></span> of CONFIRM<sup>†</sup> patients had liver<br/>metastases at baseline.</b><sup>1,‡</sup>",
+        "summary": "<ul><li>72 years of age</li><li>Recurrence &gt;12 months after completion of adjuvant therapy</li><li>Liver metastases</li><li>Asymptomatic</li></ul>",
+        "status": {
+            "row": [
+                "Woman aged 72 years with a history of breast cancer and&nbsp;osteoporosis",
+            "Patient fell; chest radiograph ordered to rule out rib fracture",
+            "Radiograph revealed few ill-defined lesions in the lung 3 years after completion of adjuvant hormonal therapy (HT) (tamoxifen)",
+            "Workup for metastatic disease revealed liver masses, which were confirmed to be malignant",
+            "Tamoxifen started and patient progressed 4 months later",
+            "ECOG<sup>§</sup> Performance Status: 2"
+                ]
+        },
+        "imaging": {
+            "row": [
+                "Computed tomography (CT) scan reveals 2 liver masses and lung lesions consistent with benign calcified granulomas",
+            "Bone scan/positron emission tomography(PET) scan is negative for metastatic disease in bone",
+            "No evidence of other metastatic disease"
+                ]
+        },
+        "testing": {
+            "row": [
+                "Liver mass biopsy confirms estrogen receptor (ER)+/progesterone receptor (PgR)+, human epidermal <br />growth factor receptor-2 (HER2) negative status, with <br />pathology consistent with primary tumor",
+            "Laboratory values:<ul><li class=\"dash\">Elevated cancer antigen CA 27.29: 73 U/mL</li><li class=\"dash\">Normal liver function tests</li></ul>"
+                ]
+        },
+        "footnotes": {
+            "row": [
+                "<sup>*</sup>Recurrence >12 months after completion of adjuvant hormonal therapy (tamoxifen) and progression<br /><div class=\"adjustRight\">after hormonal therapy (tamoxifen) for advanced disease.</div>",
+            "<sup>†</sup><b><span style=\"font-family: arial; font-weight: bold;\">CO</span></b>mpariso<b>N</b> of <b>F</b>ASLODEX <b>I</b>n <b>R</b>ecurrent or <b>M</b>etastatic Breast Cancer.<sup>2</sup><br>",
+            "<sup>‡</sup>Total number of patients=736. Patients with multiple lesions in the same site are<br><div class=\"adjustRight\">counted only once in that site.<sup>1</sup></div>",
+            "<sup>§</sup>Eastern Cooperative Oncology Group."
+                ]
+        },
+        "references": {
+            "row": [
+                "Data on File, 1390903. AstraZeneca Pharmaceuticals LP.",
+            "Di Leo A, Jerusalem G, Petruzelka L, et al. Results of the CONFIRM phase III trial comparing fulvestrant <br />250 mg with fulvestrant 500 mg in postmenopausal women with estrogen receptor–positive advanced <br />breast cancer. <i>J Clin Oncol.</i> 2010;28(30):4594-4600."
+                                                                                                                                                                                                                                                                                  ]
+        }
+    },
+    {
+        "id": "4",
+        "title": "G.A.",
+        "age": "61",
+        "file": "patient-004.xml",
+        "progType": "Recurrence",
+        "prog": "&le;12 Months<sup>*</sup>",
+        "siteValue": 2,
+        "loc": "Lung",
+        "symp": "Asymptomatic",
+        "symptomValue":2,
+        "image": { "src": "images/profiles/04.png" },
+        "banner": "<b><span>32.3<span class=\"percentage\">%</span></span> of CONFIRM<sup>†</sup> patients had lung<br/>metastases at baseline.</b><sup>1,‡</sup>",
+        "summary": "<ul><li>61 years of age</li><li>Recurrence &le;12 months postadjuvant therapy</li><li>Lung metastases</li><li>Asymptomatic</li></ul>",
+        "status": {
+            "row": [
+                "Woman aged 61 years with a history of breast cancer",
+            "Patient completed 5 years of adjuvant hormonal therapy (HT) (tamoxifen) 10 months ago",
+            "Patient hospitalized with uncomplicated myocardial infarction<ul><li class=\"dash\">Chest x-ray reveals small pleural effusion in left lung</li></ul>",
+            "ECOG<sup>§</sup> Performance Status: 1"
+                ]
+        },
+        "imaging": { "row": "Bone scan, brain magnetic resonance imaging (MRI), and chest/pelvic/abdominal computed tomography (CT) scans show small pleural effusion in left lung with no other sites of disease; bone scan negative" },
+        "testing": {
+            "row": [
+                "Thoracentesis:<ul><li class=\"dash\">Cytology shows malignant cells</li><li class=\"dash\">Estrogen receptor (ER)+/progesterone receptor (PgR)+, human epidermal growth factor receptor-2 (HER2) negative status</li></ul>",
+            "Laboratory values:<ul><li class=\"dash\">Elevated cancer antigen CA 27.29: 60 U/mL</li><li class=\"dash\">Normal liver function tests</li></ul>"
+                ]
+        },
+        "footnotes": {
+            "row": [
+                "<sup>*</sup>Recurrence during or within 12 months of completing adjuvant hormonal therapy (tamoxifen).<br>",
+            "<sup>†</sup><b><span style=\"font-family: arial; font-weight: bold;\">CO</span></b>mpariso<b>N</b> of <b>F</b>ASLODEX <b>I</b>n <b>R</b>ecurrent or <b>M</b>etastatic Breast Cancer.<sup>2</sup><br>",
+            "<sup>‡</sup>Total number of patients=736. Patients with multiple lesions in the same site are<br><div class=\"adjustRight\">counted only once in that site.<sup>1</sup></div>",
+            "<sup>§</sup>Eastern Cooperative Oncology Group."
+                ]
+        },
+        "references": {
+            "row": [
+                "Data on File, 1390903. AstraZeneca Pharmaceuticals LP.",
+            "Di Leo A, Jerusalem G, Petruzelka L, et al. Results of the CONFIRM phase III trial comparing fulvestrant <br />250 mg with fulvestrant 500 mg in postmenopausal women with estrogen receptor–positive advanced <br />breast cancer. <i>J Clin Oncol.</i> 2010;28(30):4594-4600."
+                                                                                                                                                                                                                                                                                  ]
+        }
+    },
+    {
+        "id": "5",
+        "title": "N.L.",
+        "age": "66",
+        "file": "patient-005.xml",
+        "progType":"Progression",
+        "timeValue":2,
+        "prog": "&gt;12 Months<sup>*</sup>",
+        "siteValue": 2,
+        "loc": "Lung",
+        "symp": "Mild/Moderate",
+        "symptomValue":1,
+        "image": { "src": "images/profiles/05.png" },
+        "banner": "<b><span>32.3<span class=\"percentage\">%</span></span> of CONFIRM<sup>†</sup> patients had lung<br/>metastases at baseline.</b><sup>1,‡</sup>",
+        "summary": "<ul><li>66 years of age</li><li>Recurrence &gt;12 months after completion of adjuvant therapy</li><li>Lung metastases</li><li>Mild/moderate symptoms</li></ul>",
+        "status": {
+            "row": [
+                "Woman 66 years of age with a history of breast cancer",
+            "Patient completed adjuvant hormonal therapy (HT) <br />(tamoxifen) 13&nbsp;months ago",
+            "Diagnosed with pneumonia; showed clinical improvement; infiltrate cleared on x-ray, but there were persistent bilateral nodules<ul><li class=\"dash\">Biopsy of lung nodule confirmed metastases</li></ul>",
+            "Tamoxifen started and patient progressed 5 months later",
+            "ECOG<sup>§</sup> Performance Status: 1"
+                ]
+        },
+        "imaging": {
+            "row": [
+                "Chest x-ray reveals suspicious bilateral 1- to 2-cm nodules",
+            "Chest/pelvic/abdominal computed tomography (CT) scans, brain magnetic resonance imaging (MRI), and bone scan indicate lung nodules with no other sites of disease"
+                ]
+        },
+        "testing": {
+            "row": [
+                "Biopsy of lung nodule confirms estrogen receptor (ER)+/progesterone receptor (PgR)+, human epidermal growth factor receptor-2 (HER2) negative status",
+            "Laboratory values:<ul><li class=\"dash\">Elevated cancer antigen CA 27.29: 57 U/mL</li><li class=\"dash\">Normal liver function tests</li></ul>"
+                ]
+        },
+        "footnotes": {
+            "row": [
+                "<sup>*</sup>Recurrence >12 months after completion of adjuvant hormonal therapy (tamoxifen) and progression<br /><div class=\"adjustRight\">after hormonal therapy (tamoxifen) for advanced disease.</div>",
+            "<sup>†</sup><b><span style=\"font-family: arial; font-weight: bold;\">CO</span></b>mpariso<b>N</b> of <b>F</b>ASLODEX <b>I</b>n <b>R</b>ecurrent or <b>M</b>etastatic Breast Cancer.<sup>2</sup><br>",
+            "<sup>‡</sup>Total number of patients=736. Patients with multiple lesions in the same site are<br><div class=\"adjustRight\">counted only once in that site.<sup>1</sup></div>",
+            "<sup>§</sup>Eastern Cooperative Oncology Group."
+                ]
+        },
+        "references": {
+            "row": [
+                "Data on File, 1390903. AstraZeneca Pharmaceuticals LP.",
+            "Di Leo A, Jerusalem G, Petruzelka L, et al. Results of the CONFIRM phase III trial comparing fulvestrant <br />250 mg with fulvestrant 500 mg in postmenopausal women with estrogen receptor–positive advanced <br />breast cancer. <i>J Clin Oncol.</i> 2010;28(30):4594-4600."
+                                                                                                                                                                                                                                                                                  ]
+        }
+    },
+    {
+        "id": "6",
+        "title": "C.P.",
+        "age": "72",
+        "file": "patient-006.xml",
+        "progType": "Recurrence",
+        "timeValue":1,
+        "prog": "&le;12 Months<sup>*</sup>",
+        "siteValue": 1,
+        "loc": "Bone",
+        "symp": "Asymptomatic",
+        "symptomValue":2,
+        "image": { "src": "images/profiles/06.png" },
+        "summary": "<ul><li>72 years of age</li><li>Recurrence &le;12 months postadjuvant therapy</li><li>Bone metastases</li><li>Asymptomatic</li></ul>",
+        "banner": "<b><span>22.3<span class=\"percentage\">%</span></span> of CONFIRM<sup>†</sup> patients had bone-only<br/>metastases at baseline.</b><sup>1,‡</sup>",
+        "status": {
+            "row": [
+                "Asymptomatic woman aged 72 years with a history of breast cancer completed 5 years of adjuvant hormonal therapy (HT) (tamoxifen) 9&nbsp;months ago",
+            "Bone metastases (femur) found<ul><li class=\"dash\">Patient falls off bicycle and fractures left femur. During surgical repair (open reduction and internal fixation) of femur, fracture is discovered to be pathologic</li></ul>",
+            "ECOG<sup>§</sup> Performance Status: 0"
+                ]
+        },
+        "imaging": {
+            "row": [
+                "Radionuclide bone scan, brain magnetic resonance imaging (MRI), chest x-ray, and chest/pelvic/abdominal computed tomography (CT) scans show mixed osteolytic and osteoblastic lesions in left femur ",
+            "No evidence of other metastatic disease"
+                ]
+        },
+        "testing": {
+            "row": [
+                "Biopsy of bone tissue confirms metastatic disease with estrogen receptor (ER)+/progesterone receptor (PgR)+, human epidermal growth factor receptor-2 (HER2) negative status, with pathology consistent with primary tumor",
+            "Laboratory values:<ul><li class=\"dash\">Elevated cancer antigen CA 27.29: 82 U/mL</li><li class=\"dash\">Normal liver function tests</li></ul>"
+                ]
+        },
+        "footnotes": {
+            "row": [
+                "<sup>*</sup>Recurrence during or within 12 months of completing adjuvant hormonal therapy (tamoxifen).<br>",
+            "<sup>†</sup><b><span style=\"font-family: arial; font-weight: bold;\">CO</span></b>mpariso<b>N</b> of <b>F</b>ASLODEX <b>I</b>n <b>R</b>ecurrent or <b>M</b>etastatic Breast Cancer.<sup>2</sup><br>",
+            "<sup>‡</sup>Total number of patients=736. Patients with multiple lesions in the same site are<br><div class=\"adjustRight\">counted only once in that site.<sup>1</sup></div>",
+            "<sup>§</sup>Eastern Cooperative Oncology Group."
+                ]
+        },
+        "references": {
+            "row": [
+                "Data on File, 1196503. AstraZeneca Pharmaceuticals LP.",
+            "Di Leo A, Jerusalem G, Petruzelka L, et al. Results of the CONFIRM phase III trial comparing fulvestrant <br />250 mg with fulvestrant 500 mg in postmenopausal women with estrogen receptor–positive advanced <br />breast cancer. <i>J Clin Oncol.</i> 2010;28(30):4594-4600."
+                                                                                                                                                                                                                                                                                  ]
+        }
+    },
+    {
+        "id": "7",
+        "title": "S.M.",
+        "age": "61",
+        "file": "patient-007.xml",
+        "progType": "Progression",
+        "timeValue":2,
+        "prog": "&gt;12 Months<sup>*</sup>",
+        "siteValue": 1,
+        "loc": "Bone",
+        "symp": "Mild/Moderate",
+        "symptomValue":1,
+        "image": { "src": "images/profiles/07.png" },
+        "banner": "<b><span>22.3<span class=\"percentage\">%</span></span> of CONFIRM<sup>†</sup> patients had bone-only<br/>metastases at baseline.</b><sup>1,‡</sup>",
+        "summary": "<ul><li>61 years of age</li><li>Recurrence &gt;12 months after completion of adjuvant therapy</li><li>Bone metastases</li><li>Mild/moderate symptoms</li></ul>",
+        "status": {
+            "row": [
+                "Woman aged 61 years with a history of breast cancer presents with back pain 14 months after completion of adjuvant hormonal therapy (HT) (tamoxifen)",
+            "Lumbar spine magnetic resonance imaging (MRI) confirmed&nbsp;metastases",
+            "Tamoxifen started and patient progressed 4 months later",
+            "ECOG<sup>§</sup> Performance Status: 1"
+                ]
+        },
+        "imaging": {
+            "row": [
+                "Bone scan reveals abnormal uptake in lumbar spine and ribs",
+            "Chest x-ray and chest/pelvic/abdominal computed tomography (CT) scans reveal diffuse metastases in lumbar spine and ribs with no signs of any impending pathologic fractures",
+            "MRI of spine confirms findings of CT and indicates that impending cord compression is unlikely",
+            "No evidence of other metastatic disease"
+                ]
+        },
+        "testing": {
+            "row": [
+                "Needle aspiration biopsy of rib confirms abnormality. Estrogen receptor (ER)+/progesterone receptor (PgR)+, human epidermal growth factor receptor-2 (HER2) negative status with pathology consistent with primary tumor",
+            "Laboratory values:<ul><li class=\"dash\">Elevated cancer antigen CA 27.29: 78 U/mL </li><li class=\"dash\">Normal liver function tests</li></ul>"
+                ]
+        },
+        "footnotes": {
+            "row": [
+                "<sup>*</sup>Recurrence >12 months after completion of adjuvant hormonal therapy (tamoxifen) and progression<br /><div class=\"adjustRight\">after hormonal therapy (tamoxifen) for advanced disease.</div>",
+            "<sup>†</sup><b><span style=\"font-family: arial; font-weight: bold;\">CO</span></b>mpariso<b>N</b> of <b>F</b>ASLODEX <b>I</b>n <b>R</b>ecurrent or <b>M</b>etastatic Breast Cancer.<sup>2</sup><br>",
+            "<sup>‡</sup>Total number of patients=736. Patients with multiple lesions in the same site are<br><div class=\"adjustRight\">counted only once in that site.<sup>1</sup></div>",
+            "<sup>§</sup>Eastern Cooperative Oncology Group."
+                ]
+        },
+        "references": {
+            "row": [
+                "Data on File, 1196503. AstraZeneca Pharmaceuticals LP.",
+            "Di Leo A, Jerusalem G, Petruzelka L, et al. Results of the CONFIRM phase III trial comparing fulvestrant <br />250 mg with fulvestrant 500 mg in postmenopausal women with estrogen receptor–positive advanced <br />breast cancer. <i>J Clin Oncol.</i> 2010;28(30):4594-4600."
+                                                                                                                                                                                                                                                                                  ]
+        }
+    },
+    {
+        "id": "9",
+        "title": "H.W.",
+        "age": "68",
+        "file": "patient-009.xml",
+        "progType": "Recurrence",
+        "timeValue":1,
+        "prog": "&le;12 Months<sup>*</sup>",
+        "siteValue": 2,
+        "loc": "Lung and Liver",
+        "symp": "Asymptomatic",
+        "symptomValue":2,
+        "image": { "src": "images/profiles/09.png" },
+        "banner": "<b><span>32.3<span class=\"percentage\">%</span></span> of CONFIRM<sup>†</sup> patients had lung<br/>metastases at baseline.</b><sup>1,‡</sup>",
+        "summary": "<ul><li>68 years of age</li><li>Recurrence &le;12 months postadjuvant therapy</li><li>Lung and liver metastases</li><li>Asymptomatic</li></ul>",
+        "status": {
+            "row": [
+                "Woman aged 68 years with a history of breast cancer",
+            "Patient completed 5 years of adjuvant hormonal therapy (HT) (tamoxifen) 7 months ago",
+            "Patient is on a statin for hypercholesterolemia",
+            "On a routine follow-up visit, her alkaline phosphatase was noted to be elevated and a workup was ordered",
+            "ECOG<sup>§</sup> Performance Status: 0"
+                ]
+        },
+        "imaging": {
+            "row": [
+                "Ultrasound of liver shows 2 masses, each approximately 2 cm",
+            "Bone scan, brain magnetic resonance imaging (MRI), chest x-ray, and chest/pelvic/abdominal computed tomography (CT) scans reveal 4 nodules in left lung, varying in size between 1.6 and <br />3.0 cm, and the 2 masses in liver",
+            "No evidence of other metastatic disease"
+                ]
+        },
+        "testing": {
+            "row": [
+                "Liver mass and lung nodule biopsies confirm metastatic disease with estrogen receptor (ER)+/progesterone receptor (PgR)+, human epidermal growth factor receptor-2 (HER2) negative status with pathology consistent with primary tumor",
+            "Laboratory values:<ul><li class=\"dash\">Elevated cancer antigen CA 27.29: 192 U/mL </li><li class=\"dash\">Elevated alkaline phosphatase</li><li class=\"dash\">Other liver function tests normal</li></ul>"
+                ]
+        },
+        "footnotes": {
+            "row": [
+                "<sup>*</sup>Recurrence during or within 12 months of completing adjuvant hormonal therapy (tamoxifen).<br>",
+            "<sup>†</sup><b><span style=\"font-family: arial; font-weight: bold;\">CO</span></b>mpariso<b>N</b> of <b>F</b>ASLODEX <b>I</b>n <b>R</b>ecurrent or <b>M</b>etastatic Breast Cancer.<sup>2</sup><br>",
+            "<sup>‡</sup>Total number of patients=736. Patients with multiple lesions in the same site are<br><div class=\"adjustRight\">counted only once in that site.<sup>1</sup></div>",
+            "<sup>§</sup>Eastern Cooperative Oncology Group."
+                ]
+        },
+        "references": {
+            "row": [
+                "Data on File, 1390903. AstraZeneca Pharmaceuticals LP.",
+            "Di Leo A, Jerusalem G, Petruzelka L, et al. Results of the CONFIRM phase III trial comparing fulvestrant <br />250 mg with fulvestrant 500 mg in postmenopausal women with estrogen receptor–positive advanced <br />breast cancer. <i>J Clin Oncol.</i> 2010;28(30):4594-4600."
+                                                                                                                                                                                                                                                                                  ]
+        }
+    },
+    {
+        "id": "10",
+        "title": "E.B.",
+        "age": "58",
+        "file": "patient-010.xml",
+        "progType": "Progression",
+        "timeValue":2,
+        "prog": "&gt;12 Months<sup>*</sup>",
+        "siteValue": 2,
+        "loc": "Lung and Liver",
+        "symp": "Mild/Moderate",
+        "symptomValue":1,
+        "image": { "src": "images/profiles/10.png" },
+        "banner": "<b><span>54.8<span class=\"percentage\">%</span></span> of CONFIRM<sup>†</sup> patients had any visceral disease at baseline.</b><sup>1,‡</sup>",
+        "summary": "<ul><li>58 years of age</li><li>Recurrence &gt;12 months after completion of adjuvant therapy</li><li>Lung and liver metastases</li><li>Mild/moderate symptoms</li></ul>",
+        "status": {
+            "row": [
+                "58-year-old patient with a history of breast cancer",
+            "Patient had completed 5 years of adjuvant hormonal therapy (HT)&nbsp;(tamoxifen)",
+            "At 20 months after completion of therapy, patient presented with mild/moderate cough (cough from nasopharyngitis, <br />which later&nbsp;resolved)",
+            "Chest scan showed small lung nodule (0.3 cm) in the right central&nbsp;lung<ul><li class=\"dash\">Lung cancer metastases confirmed via biopsy</li></ul>",
+            "Tamoxifen started and patient progressed 10 months later",
+            "ECOG<sup>§</sup> Performance Status: 0"
+                ]
+        },
+        "imaging": {
+            "row": [
+                "Bone scan, chest/pelvic/abdominal computed tomography (CT) scans, and chest x-rays are performed ",
+            "Imaging reveals 1 nodule (0.8 cm) in the right central lung; solitary, 1.2-cm nodule in left lung; 1 mass (1.1 cm) in liver"
+                ]
+        },
+        "testing": {
+            "row": [
+                "Biopsy of the liver mass confirms estrogen receptor (ER)+/progesterone receptor (PgR)+, human epidermal growth factor receptor-2 (HER2) negative status, with pathology consistent with primary tumor ",
+            "Laboratory values: <ul><li class=\"dash\">Elevated cancer antigen CA 27.29: 75 U/mL </li><li class=\"dash\">Normal liver function tests</li></ul>"
+                ]
+        },
+        "footnotes": {
+            "row": [
+                "<sup>*</sup>Recurrence >12 months after completion of adjuvant hormonal therapy (tamoxifen) and progression<br /><div class=\"adjustRight\">after hormonal therapy (tamoxifen) for advanced disease.</div>",
+            "<sup>†</sup><b><span style=\"font-family: arial; font-weight: bold;\">CO</span></b>mpariso<b>N</b> of <b>F</b>ASLODEX <b>I</b>n <b>R</b>ecurrent or <b>M</b>etastatic Breast Cancer.<sup>2</sup><br>",
+            "<sup>‡</sup>Total number of patients=736. Patients with multiple lesions in the same site are<br><div class=\"adjustRight\">counted only once in that site.<sup>3</sup></div>",
+            "<sup>§</sup>Eastern Cooperative Oncology Group."
+                ]
+        },
+        "references": {
+            "row": [
+                "Data on File, 1196503. AstraZeneca Pharmaceuticals LP.",
+            "Di Leo A, Jerusalem G, Petruzelka L, et al. Results of the CONFIRM phase III trial comparing fulvestrant <br />250 mg with fulvestrant 500 mg in postmenopausal women with estrogen receptor–positive advanced <br />breast cancer. <i>J Clin Oncol.</i> 2010;28(30):4594-4600.",
+            "Data on File, 1390903. AstraZeneca Pharmaceuticals LP."
+                                                                    ]
+        }
+    },
+    {
+        "id": "11",
+        "title": "B.M.",
+        "age": "67",
+        "file": "patient-011.xml",
+        "progType": "Recurrence",
+        "timeValue":1,
+        "prog": "&le;12 Months<sup>*</sup>",
+        "siteValue": 3,
+        "loc": "Liver and Bone",
+        "symp": "Asymptomatic",
+        "symptomValue":2,
+        "image": { "src": "images/profiles/11.png" },
+        "banner": "<b><span>54.8<span class=\"percentage\">%</span></span> of CONFIRM<sup>†</sup> patients had anyvisceral disease at baseline.</b><sup>1,‡</sup>",
+        "summary": "<ul><li>67 years of age</li><li>Recurrence &le;12 months postadjuvant therapy</li><li>Liver and bone metastases</li><li>Asymptomatic</li></ul>",
+        "status": {
+            "row": [
+                "Woman aged 67 years with a history of breast cancer ",
+            "Patient completed 5 years of adjuvant hormonal therapy (HT) (tamoxifen) 8.5 months ago",
+            "Patient is taking a statin for hypercholesterolemia",
+            "ECOG<sup>§</sup> Performance Status: 0"
+                ]
+        },
+        "imaging": {
+            "row": [
+                "Bone scan, brain magnetic resonance imaging (MRI), chest/pelvic/abdominal computed tomography (CT) scans, and <br />x-rays are performed",
+            "CT scan shows 3 distinct, 1- to 2-cm masses in the right lobe of the&nbsp;liver",
+            "X-rays reveal several small lucencies in the skull and right femur; bone scan shows several areas of uptake in skull and femur"
+                ]
+        },
+        "testing": {
+            "row": [
+                "Biopsy of the liver masses confirms metastatic disease with estrogen receptor (ER)+/progesterone receptor (PgR)+, human epidermal growth factor receptor-2 (HER2) negative status<br />with pathology consistent with primary tumor",
+            "Laboratory values:<ul><li class=\"dash\">Results of routine evaluation show abnormal liver function tests thought to be due to statin therapy<ul><li class=\"dash square\">Alkaline phosphatase (ALP): 190 IU/L</li><li class=\"dash square\">Aspartate transaminase (AST): 75 IU/L</li><li class=\"dash square\">Alanine transaminase (ALT): 81 IU/L </li><li class=\"dash square\">Bilirubin: 0.9 mg/dL</li></ul></li><li class=\"dash\">Elevated cancer antigen CA 27.29: 58 U/mL </li></ul>"
+                                                                                                                                                                                                                                                                                                                                                           ]
+        },
+        "footnotes": {
+            "row": [
+                "<sup>*</sup>Recurrence during or within 12 months of completing adjuvant hormonal therapy (tamoxifen).<br>",
+            "<sup>†</sup><b><span style=\"font-family: arial; font-weight: bold;\">CO</span></b>mpariso<b>N</b> of <b>F</b>ASLODEX <b>I</b>n <b>R</b>ecurrent or <b>M</b>etastatic Breast Cancer.<sup>2</sup><br>",
+            "<sup>‡</sup>Total number of patients=736. Patients with multiple lesions in the same site are<br><div class=\"adjustRight\">counted only once in that site.<sup>3</sup></div>",
+            "<sup>§</sup>Eastern Cooperative Oncology Group."
+                ]
+        },
+        "references": {
+            "row": [
+                "Data on File, 1196503. AstraZeneca Pharmaceuticals LP.",
+            "Di Leo A, Jerusalem G, Petruzelka L, et al. Results of the CONFIRM phase III trial comparing fulvestrant <br />250 mg with fulvestrant 500 mg in postmenopausal women with estrogen receptor–positive advanced <br />breast cancer. <i>J Clin Oncol.</i> 2010;28(30):4594-4600.",
+            "Data on File, 1390903. AstraZeneca Pharmaceuticals LP."
+                                                                    ]
+        }
+    },
+    {
+        "id": "12",
+        "title": "C.D.",
+        "age": "64",
+        "file": "patient-012.xml",
+        "progType": "Recurrence",
+        "timeValue":1,
+        "prog": "&le;12 Months<sup>*</sup>",
+        "siteValue": 3,
+        "loc": "Liver and Bone",
+        "symp": "Mild/Moderate",
+        "symptomValue":1,
+        "image": { "src": "images/profiles/12.png" },
+        "banner": "<b><span>54.8<span class=\"percentage\">%</span></span> of CONFIRM<sup>†</sup> patients had anyvisceral disease at baseline.</b><sup>1,‡</sup>",
+        "summary": "<ul><li>64 years of age</li><li>Recurrence &le;12 months postadjuvant therapy</li><li>Liver and bone metastases</li><li>Mild/moderate symptoms</li></ul>",
+        "status": {
+            "row": [
+                "Woman aged 64 years with a history of breast cancer",
+            "Patient presents with pain in the lumbar spine 10 months after completion of adjuvant hormonal therapy (HT) (tamoxifen)",
+            "ECOG<sup>§</sup> Performance Status: 1"
+                ]
+        },
+        "imaging": {
+            "row": [
+                "Bone scan, brain magnetic resonance imaging (MRI), and chest/pelvic/abdominal computed tomography (CT) scans are&nbsp;performed",
+            "Bone scan reveals 3 areas of abnormal uptake in the lumbar spine. Lumbar MRI reveals lytic/blastic lesions in the lumbar spine with no compression fracture or impending cord impingement",
+            "CT scan and liver MRI reveal a solitary 1.5-cm mass in right hepatic lobe; no evidence of biliary dilatation"
+                ]
+        },
+        "testing": {
+            "row": [
+                "Liver aspiration confirms estrogen receptor (ER)+/progesterone receptor (PgR)+, human epidermal growth factor receptor-2 (HER2) negative status with pathology consistent with the primary tumor",
+            "Laboratory values:<ul><li class=\"dash\">Elevated cancer antigen CA 27.29: 65 U/mL </li><li class=\"dash\">Normal liver function tests</li></ul>"
+                ]
+        },
+        "footnotes": {
+            "row": [
+                "<sup>*</sup>Recurrence during or within 12 months of completing adjuvant hormonal therapy (tamoxifen).<br>",
+            "<sup>†</sup><b><span style=\"font-family: arial; font-weight: bold;\">CO</span></b>mpariso<b>N</b> of <b>F</b>ASLODEX <b>I</b>n <b>R</b>ecurrent or <b>M</b>etastatic Breast Cancer.<sup>2</sup><br>",
+            "<sup>‡</sup>Total number of patients=736. Patients with multiple lesions in the same site are<br><div class=\"adjustRight\">counted only once in that site.<sup>3</sup></div>",
+            "<sup>§</sup>Eastern Cooperative Oncology Group."
+                ]
+        },
+        "references": {
+            "row": [
+                "Data on File, 1196503. AstraZeneca Pharmaceuticals LP.",
+            "Di Leo A, Jerusalem G, Petruzelka L, et al. Results of the CONFIRM phase III trial comparing fulvestrant <br />250 mg with fulvestrant 500 mg in postmenopausal women with estrogen receptor–positive advanced <br />breast cancer. <i>J Clin Oncol.</i> 2010;28(30):4594-4600.",
+            "Data on File, 1390903. AstraZeneca Pharmaceuticals LP."
+                                                                    ]
+        }
+    },
+    {
+        "id": "13",
+        "title": "T.H.",
+        "age": "64",
+        "file": "patient-013.xml",
+        "progType":"Progression",
+        "timeValue":2,
+        "prog": "&gt;12 Months<sup>*</sup>",
+        "siteValue": 3,
+        "loc": "Lung and Bone",
+        "symp": "Asymptomatic",
+        "symptomValue":2,
+        "image": { "src": "images/profiles/13.png" },
+        "banner": "<b><span>54.8<span class=\"percentage\">%</span></span> of CONFIRM<sup>†</sup> patients had anyvisceral disease at baseline.</b><sup>1,‡</sup>",
+        "summary": "<ul><li>64 years of age</li><li>Recurrence &gt;12 months after completion of adjuvant therapy</li><li>Lung and bone metastases</li><li>Asymptomatic</li></ul>",
+        "status": {
+            "row": [
+                "Woman aged 64 years with a history of breast cancer",
+            "Patient completed 5 years of adjuvant hormonal therapy (HT) (tamoxifen) 15 months ago",
+            "Patient was a smoker with a 50 pack/year history",
+            "Patient was found to have an abnormality on a chest radiograph performed as part of a routine employment <br />physical<ul><li class=\"dash\">Subsequent chest x-ray and computed tomography (CT) <br />scan revealed a pleural effusion one-third of the way up <br />the left hemithorax and 2 small nodules in the right <br />upper lung (each&nbsp;1.2&nbsp;cm)<sup>§</sup></li><li class=\"dash\">Biopsy of lung nodule confirmed metastases</li></ul>",
+            "Tamoxifen started and patient progressed 8 months later",
+            "ECOG<sup>||</sup> Performance Status: 0"
+                ]
+        },
+        "imaging": {
+            "row": [
+                "Bone scan, brain magnetic resonance imaging (MRI), and CT scans of the pelvis and abdomen are performed",
+            "Bone scan reveals uptake in L1, L3, and L4"
+                ]
+        },
+        "testing": {
+            "row": [
+                "Thoracentesis:<ul><li class=\"dash\">Cytology shows malignant cells with estrogen receptor (ER)+/progesterone receptor (PgR)+, human epidermal growth factor receptor-2 (HER2) negative status</li></ul>",
+            "Laboratory values:<ul><li class=\"dash\">Routine chemistries are normal</li><li class=\"dash\">Elevated cancer antigen CA 27.29: 74 U/mL</li></ul>"
+                ]
+        },
+        "footnotes": {
+            "row": [
+                "<sup>*</sup>Recurrence >12 months after completion of adjuvant hormonal therapy (tamoxifen) and progression<br /><div class=\"adjustRight\">after hormonal therapy (tamoxifen) for advanced disease.</div>",
+            "<sup>†</sup><b><span style=\"font-family: arial; font-weight: bold;\">CO</span></b>mpariso<b>N</b> of <b>F</b>ASLODEX <b>I</b>n <b>R</b>ecurrent or <b>M</b>etastatic Breast Cancer.<sup>2</sup><br>",
+            "<sup>‡</sup>Total number of patients=736. Patients with multiple lesions in the same site are<br><div class=\"adjustRight\">counted only once in that site.<sup>3</sup></div>",
+            "<sup>§</sup>This image is from a case study co-authored by Andetta Hunsaker, MD, and is reprinted<br><div class=\"adjustRight\">with permission from the Brigham and Women's Hospital Department of Radiology.</div>",
+            "<sup>||</sup>Eastern Cooperative Oncology Group."
+                ]
+        },
+        "references": {
+            "row": [
+                "Data on File, 1196503. AstraZeneca Pharmaceuticals LP.",
+            "Di Leo A, Jerusalem G, Petruzelka L, et al. Results of the CONFIRM phase III trial comparing fulvestrant <br />250 mg with fulvestrant 500 mg in postmenopausal women with estrogen receptor–positive advanced <br />breast cancer. <i>J Clin Oncol.</i> 2010;28(30):4594-4600.",
+            "Data on File, 1390903. AstraZeneca Pharmaceuticals LP."
+                                                                    ]
+        }
+    },
+    {
+        "id": "14",
+        "title": "Z.P.",
+        "age": "62",
+        "file": "patient-014.xml",
+        "progType":"Progression",
+        "timeValue":2,
+        "prog": "&gt;12 Months<sup>*</sup>",
+        "siteValue": 3,
+        "loc": "Lung and Bone",
+        "symp": "Mild/Moderate",
+        "symptomValue":1,
+        "image": { "src": "images/profiles/14.png" },
+        "banner": "<b><span>60.3<span class=\"percentage\">%</span></span> of CONFIRM<sup>†</sup> patientswere &lt;65 years <br/>of age.</b><sup>1</sup>",
+        "summary": "<ul><li>62 years of age</li><li>Recurrence &gt;12 months after completion of adjuvant therapy</li><li>Lung and bone metastases</li><li>Mild/moderate symptoms</li></ul>",
+        "status": {
+            "row": [
+                "Woman aged 62 years with a history of breast cancer ",
+            "Patient presents with rib pain despite having done well for 18 months after completion of 5 years of adjuvant hormonal therapy (HT) (tamoxifen)<ul><li class=\"dash\">Bone scan and subsequent biopsy confirmed metastases</li></ul>",
+            "Tamoxifen started and patient progressed 5 months later",
+            "ECOG<sup>‡</sup> Performance Status: 1"
+                ]
+        },
+        "imaging": {
+            "row": [
+                "Bone scan, brain magnetic resonance imaging (MRI), and chest/pelvic/abdominal computed tomography (CT) scans show<br />new nodules in left lung and several lytic lesions in ribs and lumbar&nbsp;vertebra",
+            "No evidence of other metastatic disease"
+                ]
+        },
+        "testing": {
+            "row": [
+                "Biopsy of lung nodule reveals estrogen receptor (ER)+/progesterone receptor (PgR)+, human epidermal growth factor receptor-2 (HER2) negative status, with pathology consistent with primary tumor",
+            "Laboratory values:<ul><li class=\"dash\">Elevated cancer antigen CA 27.29: 62 U/mL</li><li class=\"dash\">Normal liver function tests</li></ul>"
+                ]
+        },
+        "footnotes": {
+            "row": [
+                "<sup>*</sup>Recurrence >12 months after completion of adjuvant hormonal therapy (tamoxifen) and progression<br /><div class=\"adjustRight\">after hormonal therapy (tamoxifen) for advanced disease.</div>",
+            "<sup>†</sup><b><span style=\"font-family: arial; font-weight: bold;\">CO</span></b>mpariso<b>N</b> of <b>F</b>ASLODEX <b>I</b>n <b>R</b>ecurrent or <b>M</b>etastatic Breast Cancer.<sup>2</sup><br>",
+            "<sup>‡</sup>Eastern Cooperative Oncology Group."
+                ]
+        },
+        "references": {
+            "row": [
+                "Data on File, 1198501. AstraZeneca Pharmaceuticals LP.",
+            "Di Leo A, Jerusalem G, Petruzelka L, et al. Results of the CONFIRM phase III trial comparing fulvestrant <br />250 mg with fulvestrant 500 mg in postmenopausal women with estrogen receptor–positive advanced <br />breast cancer. <i>J Clin Oncol.</i> 2010;28(30):4594-4600."
+                                                                                                                                                                                                                                                                                  ]
+        }
+    },
+    {
+        "id": "16",
+        "title": "A.M.",
+        "age": "53",
+        "file": "patient-016.xml",
+        "progType":"Progression",
+        "timeValue":2,
+        "prog": "&gt;12 Months<sup>*</sup>",
+        "siteValue": 3,
+        "loc": "Locoregional Lymph Nodes and Lung",
+        "symp": "Asymptomatic",
+        "symptomValue":2,
+        "image": { "src": "images/profiles/16.png" },
+        "banner": "<b><span>54.8<span class=\"percentage\">%</span></span> of CONFIRM<sup>†</sup> patients had anyvisceral disease at baseline.</b><sup>1,‡</sup>",
+        "summary": "<ul><li>53 years of age</li><li>Recurrence &gt;12 months after completion of adjuvant therapy</li><li>Locoregional recurrence and lung metastases</li><li>Asymptomatic</li></ul>",
+        "status": {
+            "row": [
+                "Woman aged 53 years with a history of breast cancer",
+            "Patient presented with a palpable mass in the ipsilateral axilla detected during routine clinical examination 14 months after completion of adjuvant hormonal therapy (HT) (tamoxifen)<ul><li class=\"dash\">Biopsy of axillary mass confirmed malignancy</li></ul>",
+            "Tamoxifen started and patient progressed 4 months later",
+            "ECOG<sup>§</sup> Performance Status: 0"
+                ]
+        },
+        "imaging": {
+            "row": [
+                "Bone scan, chest/pelvic/abdominal computed tomography (CT) scans, and chest x-ray are performed",
+            "Imaging reveals 1 nodule in the peripheral right lung"
+                ]
+        },
+        "testing": {
+            "row": [
+                "Biopsies of the axillary mass show estrogen receptor (ER)+/progesterone receptor (PgR)+, human epidermal growth factor receptor-2 (HER2) negative status with pathology consistent with the primary tumor",
+            "Laboratory values:<ul><li class=\"dash\">Elevated cancer antigen CA 27.29: 80 U/mL </li><li class=\"dash\">Normal liver function tests</li></ul>"
+                ]
+        },
+        "footnotes": {
+            "row": [
+                "<sup>*</sup>Recurrence >12 months after completion of adjuvant hormonal therapy (tamoxifen) and progression<br /><div class=\"adjustRight\">after hormonal therapy (tamoxifen) for advanced disease.</div>",
+            "<sup>†</sup><b><span style=\"font-family: arial; font-weight: bold;\">CO</span></b>mpariso<b>N</b> of <b>F</b>ASLODEX <b>I</b>n <b>R</b>ecurrent or <b>M</b>etastatic Breast Cancer.<sup>2</sup><br>",
+            "<sup>‡</sup>Total number of patients=736. Patients with multiple lesions in the same site are<br><div class=\"adjustRight\">counted only once in that site.<sup>3</sup></div>",
+            "<sup>§</sup>Eastern Cooperative Oncology Group."
+                ]
+        },
+        "references": {
+            "row": [
+                "Data on File, 1196503. AstraZeneca Pharmaceuticals LP.",
+            "Di Leo A, Jerusalem G, Petruzelka L, et al. Results of the CONFIRM phase III trial comparing fulvestrant <br />250 mg with fulvestrant 500 mg in postmenopausal women with estrogen receptor–positive advanced <br />breast cancer. <i>J Clin Oncol.</i> 2010;28(30):4594-4600.",
+            "Data on File, 1390903. AstraZeneca Pharmaceuticals LP."
+                                                                    ]
+        }
+    },
+    {
+        "id": "17",
+        "title": "D.G.",
+        "age": "68",
+        "file": "patient-017.xml",
+        "progType":"Progression",
+        "timeValue":2,
+        "prog": "&gt;12 Months<sup>*</sup>",
+        "siteValue": 3,
+        "loc": "Skin/Soft Tissue and Pleura",
+        "symp": "Mild/Moderate",
+        "symptomValue":1,
+        "image": { "src": "images/profiles/17.png" },
+        "banner": "<b><span>10.9<span class=\"percentage\">%</span></span> of CONFIRM<sup>†</sup> patients had pleura<br/>metastases at baseline.</b><sup>1,‡</sup>",
+        "summary": "<ul><li>68 years of age</li><li>Recurrence &gt;12 months after completion of adjuvant therapy</li><li>Skin/soft tissue and pleura metastases</li><li>Mild/moderate symptoms</li></ul>",
+        "status": {
+            "row": [
+                "Woman aged 68 years with a history of breast cancer",
+            "Patient presented with a 0.5-cm mass in skin 10 years after completion of adjuvant hormonal therapy (HT) (tamoxifen)<ul><li class=\"dash\">Biopsy confirmed metastases</li></ul>",
+            "Tamoxifen started and patient progressed 9 months later",
+            "ECOG<sup>§</sup> Performance Status: 1"
+                ]
+        },
+        "imaging": {
+            "row": [
+                "Bone scan is negative",
+            "Chest x-ray and chest/pelvic/abdominal computed tomography (CT) scans reveal left pleural effusion",
+            "No evidence of other metastatic disease"
+                ]
+        },
+        "testing": {
+            "row": [
+                "Skin mass biopsy confirms estrogen receptor (ER)+/<br />progesterone receptor (PgR)+, human epidermal growth <br />factor receptor-2 (HER2) negative status with pathology <br />consistent with primary tumor",
+            "Thoracentesis:<ul><li class=\"dash\">Cytology shows ER+/PgR+/HER2- malignant cells</li></ul>",
+            "Laboratory values:<ul><li class=\"dash\">Elevated cancer antigen CA 27.29: 60 U/mL </li><li class=\"dash\">Normal liver function tests</li></ul>"
+                ]
+        },
+        "footnotes": {
+            "row": [
+                "<sup>*</sup>Recurrence >12 months after completion of adjuvant hormonal therapy (tamoxifen) and progression<br /><div class=\"adjustRight\">after hormonal therapy (tamoxifen) for advanced disease.</div>",
+            "<sup>†</sup><b><span style=\"font-family: arial; font-weight: bold;\">CO</span></b>mpariso<b>N</b> of <b>F</b>ASLODEX <b>I</b>n <b>R</b>ecurrent or <b>M</b>etastatic Breast Cancer.<sup>2</sup><br>",
+            "<sup>‡</sup>Total number of patients=736. Patients with multiple lesions in the same site are<br><div class=\"adjustRight\">counted only once in that site.<sup>1</sup></div>",
+            "<sup>§</sup>Eastern Cooperative Oncology Group."
+                ]
+        },
+        "references": {
+            "row": [
+                "Data on File, 1390903. AstraZeneca Pharmaceuticals LP.",
+            "Di Leo A, Jerusalem G, Petruzelka L, et al. Results of the CONFIRM phase III trial comparing fulvestrant <br />250 mg with fulvestrant 500 mg in postmenopausal women with estrogen receptor–positive advanced <br />breast cancer. <i>J Clin Oncol.</i> 2010;28(30):4594-4600."
+                                                                                                                                                                                                                                                                                  ]
+        }
+    },
+    {
+        "id": "18",
+        "title": "R.C.",
+        "age": "61",
+        "file": "patient-018.xml",
+        "progType": "Recurrence",
+        "timeValue":1,
+        "prog": "&le;12 Months<sup>*</sup>",
+        "siteValue": 3,
+        "loc": "Lung and Soft Tissue",
+        "symp": "Mild/Moderate",
+        "symptomValue":1,
+        "image": { "src": "images/profiles/18.png" },
+        "banner": "<b><span>54.8<span class=\"percentage\">%</span></span> of CONFIRM<sup>†</sup> patients had anyvisceral disease at baseline.</b><sup>1,‡</sup>",
+        "summary": "<ul><li>61 years of age</li><li>Recurrence &le;12 months postadjuvant therapy</li><li>Lung and soft-tissue metastases</li><li>Mild/moderate symptoms</li></ul>",
+        "status": {
+            "row": [
+                "Woman aged 61 years with a history of breast cancer ",
+            "Patient completed 5 years of adjuvant hormonal therapy (HT) (tamoxifen) 6 months ago",
+            "Patient complains of minimal fullness in lower right neck",
+            "ECOG<sup>§</sup> Performance Status: 1"
+                ]
+        },
+        "imaging": {
+            "row": [
+                "Bone scan, brain magnetic resonance imaging (MRI), and chest/pelvic/abdominal computed tomography (CT) scans reveal multiple new bilateral nodules in lungs ",
+            "No evidence of other metastatic disease "
+                ]
+        },
+        "testing": {
+            "row": [
+                "Biopsy of palpable right supraclavicular node confirms estrogen receptor (ER)+/progesterone receptor (PgR)+, human epidermal growth factor receptor-2 (HER2) negative status, with pathology consistent with primary tumor",
+            "Laboratory values:<ul><li class=\"dash\">Elevated cancer antigen CA 27.29: 183 U/mL</li><li class=\"dash\">Normal liver function tests</li></ul>"
+                ]
+        },
+        "footnotes": {
+            "row": [
+                "<sup>*</sup>Recurrence during or within 12 months of completing adjuvant hormonal therapy (tamoxifen).<br>",
+            "<sup>†</sup><b><span style=\"font-family: arial; font-weight: bold;\">CO</span></b>mpariso<b>N</b> of <b>F</b>ASLODEX <b>I</b>n <b>R</b>ecurrent or <b>M</b>etastatic Breast Cancer.<sup>2</sup><br>",
+            "<sup>‡</sup>Total number of patients=736. Patients with multiple lesions in the same site are<br><div class=\"adjustRight\">counted only once in that site.<sup>3</sup></div>",
+            "<sup>§</sup>Eastern Cooperative Oncology Group."
+                ]
+        },
+        "references": {
+            "row": [
+                "Data on File, 1196503. AstraZeneca Pharmaceuticals LP.",
+            "Di Leo A, Jerusalem G, Petruzelka L, et al. Results of the CONFIRM phase III trial comparing fulvestrant <br />250 mg with fulvestrant 500 mg in postmenopausal women with estrogen receptor–positive advanced <br />breast cancer. <i>J Clin Oncol.</i> 2010;28(30):4594-4600.",
+            "Data on File, 1390903. AstraZeneca Pharmaceuticals LP."
+                                                                    ]
+        }
+    },
+    {
+        "id": "19",
+        "title": "S.F.",
+        "age": "62",
+        "file": "patient-019.xml",
+        "progType": "Recurrence",
+        "timeValue":1,
+        "prog": "&le;12 Months<sup>*</sup>",
+        "siteValue": 3,
+        "loc": "Liver and Skin",
+        "symp": "Asymptomatic",
+        "symptomValue":2,
+        "image": { "src": "images/profiles/19.png" },
+        "banner": "<b><span>54.8<span class=\"percentage\">%</span></span> of CONFIRM<sup>†</sup> patients had anyvisceral disease at baseline.</b><sup>1,‡</sup>",
+        "summary": "<ul><li>62 years of age</li><li>Recurrence &le;12 months postadjuvant therapy</li><li>Liver and skin metastases</li><li>Asymptomatic</li></ul>",
+        "status": {
+            "row": [
+                "Woman aged 62 years with a history of breast cancer and rheumatoid arthritis",
+            "Patient presents with a 1.5-cm metastasis in skin overlying lumpectomy site detected during routine clinical examination 11 months after completion of 5 years of adjuvant hormonal therapy (HT) (tamoxifen)",
+            "ECOG<sup>§</sup> Performance Status: 1"
+                ]
+        },
+        "imaging": {
+            "row": [
+                "Ultrasound reveals two 1.0-cm metastases in liver",
+            "Bone scan, chest/pelvic/abdominal computed tomography (CT) scans, and magnetic resonance imaging (MRI) confirm liver findings; no other sites of metastatic disease detected<sup>||</sup>",
+            "Brain MRI negative"
+                ]
+        },
+        "testing": {
+            "row": [
+                "Biopsies of liver and skin confirm estrogen receptor (ER)+/progesterone receptor (PgR)+, human epidermal growth factor receptor-2 (HER2) negative status with pathology consistent with primary tumor",
+            "Laboratory values:<ul><li class=\"dash\">Alkaline phosphatase levels slightly elevated: 190 IU/L</li><li class=\"dash\">Other liver function tests normal</li><li class=\"dash\">Elevated cancer antigen CA 27.29: 260 U/mL </li><li class=\"dash\">Carcinoembryonic antigen (CEA): 5.5 ng/mL </li></ul>"
+                                                                                                                                                                                                                                                                                                 ]
+        },
+        "footnotes": {
+            "row": [
+                "<sup>*</sup>Recurrence during or within 12 months of completing adjuvant hormonal therapy (tamoxifen).<br>",
+            "<sup>†</sup><b><span style=\"font-family: arial; font-weight: bold;\">CO</span></b>mpariso<b>N</b> of <b>F</b>ASLODEX <b>I</b>n <b>R</b>ecurrent or <b>M</b>etastatic Breast Cancer.<sup>2</sup><br>",
+            "<sup>‡</sup>Total number of patients=736. Patients with multiple lesions in the same site are<br><div class=\"adjustRight\">counted only once in that site.<sup>3</sup></div>",
+            "<sup>§</sup>Eastern Cooperative Oncology Group.<br>",
+            "<sup>||</sup>Reprinted, with permission, from <em>Radiology</em> 2006;239:122-130. © Radiological Society of<br><div class=\"adjustRight\">North America.</div>"
+                ]
+        },
+        "references": {
+            "row": [
+                "Data on File, 1196503. AstraZeneca Pharmaceuticals LP.",
+            "Di Leo A, Jerusalem G, Petruzelka L, et al. Results of the CONFIRM phase III trial comparing fulvestrant <br />250 mg with fulvestrant 500 mg in postmenopausal women with estrogen receptor–positive advanced <br />breast cancer. <i>J Clin Oncol.</i> 2010;28(30):4594-4600.",
+            "Data on File, 1390903. AstraZeneca Pharmaceuticals LP."
+                                                                    ]
+        }
+    },
+    {
+        "id": "20",
+        "title": "L.C.",
+        "age": "51",
+        "file": "patient-020.xml",
+        "progType":"Progression",
+        "timeValue":2,
+        "prog": "&gt;12 Months<sup>*</sup>",
+        "siteValue": 2,
+        "loc": "Pleura",
+        "symp": "Mild/Moderate",
+        "symptomValue":1,
+        "image": { "src": "images/profiles/20.png" },
+        "banner": "<b><span>10.9<span class=\"percentage\">%</span></span> of CONFIRM<sup>†</sup> patients had pleura<br/>metastases at baseline.</b><sup>1,‡</sup>",
+        "summary": "<ul><li>51 years of age</li><li>Recurrence &gt;12 months after completion of adjuvant therapy</li><li>Pleural effusion</li><li>Mild/moderate symptoms</li></ul>",
+        "status": {
+            "row": [
+                "Woman aged 51 years with a history of breast cancer ",
+            "Patient presented with mild shortness of breath 24 months <br />after completion of 5 years of adjuvant hormonal therapy (HT) (tamoxifen)",
+            "Clinical examination revealed dullness to percussion in right lower lung field<ul><li class=\"dash\">Workup including chest x-ray and thoracentesis confirmed pleural&nbsp;metastases</li></ul>",
+            "Patient admitted to difficulty remembering to take pills",
+            "Tamoxifen started and patient progressed 4 months later",
+            "ECOG<sup>§</sup> Performance Status: 1"
+                ]
+        },
+        "imaging": {
+            "row": [
+                "Chest x-ray shows small pleural effusion on right side<sup>||</sup>",
+            "Chest/pelvic/abdominal computed tomography (CT) scans are negative, except for a moderate volume pleural effusion on right&nbsp;side",
+            "Bone scan and brain magnetic resonance imaging (MRI) are negative"
+                ]
+        },
+        "testing": {
+            "row": [
+                "Thoracentesis:<ul><li class=\"dash\">Cytology shows malignant cells</li><li class=\"dash\">Estrogen receptor (ER)+/progesterone receptor (PgR)+, human epidermal growth factor receptor-2 (HER2) negative status</li></ul>",
+            "Laboratory values:<ul><li class=\"dash\">Elevated cancer antigen CA 27.29: 47 U/mL </li></ul>"
+                ]
+        },
+        "footnotes": {
+            "row": [
+                "<sup>*</sup>Recurrence >12 months after completion of adjuvant hormonal therapy (tamoxifen) and progression<br /><div class=\"adjustRight\">after hormonal therapy (tamoxifen) for advanced disease.</div>",
+            "<sup>†</sup><b><span style=\"font-family: arial; font-weight: bold;\">CO</span></b>mpariso<b>N</b> of <b>F</b>ASLODEX <b>I</b>n <b>R</b>ecurrent or <b>M</b>etastatic Breast Cancer.<sup>2</sup><br>",
+            "<sup>‡</sup>Total number of patients=736. Patients with multiple lesions in the same site are<br><div class=\"adjustRight\">counted only once in that site.<sup>1</sup></div>",
+            "<sup>§</sup>Eastern Cooperative Oncology Group.",
+            "<br /><sup>||</sup>This image is reprinted with permission from the Brigham and Women's Hospital<br /><div class=\"adjustRight\">Department of Radiology.</div>"
+                ]
+        },
+        "references": {
+            "row": [
+                "Data on File, 1390903. AstraZeneca Pharmaceuticals LP.",
+            "Di Leo A, Jerusalem G, Petruzelka L, et al. Results of the CONFIRM phase III trial comparing fulvestrant <br />250 mg with fulvestrant 500 mg in postmenopausal women with estrogen receptor–positive advanced <br />breast cancer. <i>J Clin Oncol.</i> 2010;28(30):4594-4600."
+                                                                                                                                                                                                                                                                                  ]
+        }
+    },
+    {
+        "id": "21",
+        "title": "K.C.",
+        "age": "57",
+        "file": "patient-021.xml",
+        "progType":"Progression",
+        "timeValue":2,
+        "prog": "&gt;12 Months<sup>*</sup>",
+        "siteValue": 3,
+        "loc": "Distant Metastatic Lymph Nodes",
+        "symp": "Asymptomatic",
+        "symptomValue":2,
+        "image": { "src": "images/profiles/21.png" },
+        "banner": "<b><span>33.0<span class=\"percentage\">%</span></span> of CONFIRM<sup>†</sup> patients had distant<br/>lymph node metastases at baseline.</b><sup>1,‡</sup>",
+        "summary": "<ul><li>57 years of age</li><li>Recurrence &gt;12 months after completion of adjuvant therapy</li><li>Distant metastatic lymph nodes</li><li>Asymptomatic</li></ul>",
+        "status": {
+            "row": [
+                "Asymptomatic woman aged 57 years with a history of breast cancer",
+            "Patient completed 5 years of adjuvant hormonal therapy (HT) (tamoxifen) 22 months ago",
+            "Distant metastatic lymph node found<ul><li class=\"dash\">During routine clinical exam, a palpable 1.6-cm cervical lymph node is discovered; fine-needle aspiration in office confirmed metastatic breast cancer</li></ul>",
+            "Tamoxifen started and patient progressed 6 months later <br />based on surveillance scan",
+            "ECOG<sup>§</sup> Performance Status: 0"
+                ]
+        },
+        "imaging": {
+            "row": [
+                "Neck/chest/abdominal/pelvic computed tomography (CT) scan confirms a 2.5-cm cervical lymph node; bone scan is normal<sup>||</sup>",
+            "No evidence of other metastatic disease "
+                ]
+        },
+        "testing": {
+            "row": [
+                "Biopsy of the cervical lymph node confirms metastatic disease with estrogen receptor (ER)+/progesterone receptor (PgR)+, human epidermal growth factor receptor-2 (HER2) negative status with pathology consistent with primary tumor",
+            "Laboratory values:<ul><li class=\"dash\">Elevated cancer antigen CA 27.29: 53 U/mL </li><li class=\"dash\">Normal liver function tests </li></ul>"
+                ]
+        },
+        "footnotes": {
+            "row": [
+                "<sup>*</sup>Recurrence >12 months after completion of adjuvant hormonal therapy (tamoxifen) and progression<br /><div class=\"adjustRight\">after hormonal therapy (tamoxifen) for advanced disease.</div>",
+            "<sup>†</sup><b><span style=\"font-family: arial; font-weight: bold;\">CO</span></b>mpariso<b>N</b> of <b>F</b>ASLODEX <b>I</b>n <b>R</b>ecurrent or <b>M</b>etastatic Breast Cancer.<sup>2</sup><br>",
+            "<sup>‡</sup>Total number of patients=736. Patients with multiple lesions in the same site are<br><div class=\"adjustRight\">counted only once in that site.<sup>1</sup></div>",
+            "<sup>§</sup>Eastern Cooperative Oncology Group.",
+            "<br /><sup>||</sup>Republished with permission of <em>The Journal of Oral and Maxillofacial Surgery</em>, from<br /><div class=\"adjustRight\">Staging of Head and Neck Tumors: [<sup>18</sup>F]Fluorodeoxyglucose Positron Emission <br />Tomography Compared With Physical Examination and Conventional Imaging <br />Modalities. Sigg MB, Steinert H, Gr&auml;tz K, Hugenin P, Stoeckli S, Eyrich GK.<br /> 61:1022-1029;2003; permission conveyed through Copyright Clearance Center, Inc.</div>"
+                ]
+        },
+        "references": {
+            "row": [
+                "Data on File, 1390903. AstraZeneca Pharmaceuticals LP.",
+            "Di Leo A, Jerusalem G, Petruzelka L, et al. Results of the CONFIRM phase III trial comparing fulvestrant <br />250 mg with fulvestrant 500 mg in postmenopausal women with estrogen receptor–positive advanced <br />breast cancer. <i>J Clin Oncol.</i> 2010;28(30):4594-4600."
+                                                                                                                                                                                                                                                                                  ]
+        }
+    },
+    {
+        "id": "22",
+        "title": "I.M.",
+        "age": "54",
+        "file": "patient-022.xml",
+        "progType": "Recurrence",
+        "timeValue":1,
+        "prog": "&le;12 Months<sup>*</sup>",
+        "siteValue": 3,
+        "loc": "Locoregional Recurrence and Pleura",
+        "symp": "Asymptomatic",
+        "symptomValue":2,
+        "image": { "src": "images/profiles/22.png" },
+        "banner": "<b><span>10.9<span class=\"percentage\">%</span></span> of CONFIRM<sup>†</sup> patients had pleura<br/>metastases at baseline.</b><sup>1,‡</sup>",
+        "summary": "<ul><li>54 years of age</li><li>Recurrence &le;12 months postadjuvant therapy</li><li>Locoregional recurrence and pleura metastases</li><li>Asymptomatic</li></ul>",
+        "status": {
+            "row": [
+                "Woman aged 54 years with a history of breast cancer ",
+            "Patient completed 5 years of adjuvant hormonal therapy (HT) (tamoxifen) 11 months ago",
+            "Patient presents with a 1.2-cm mass in the ipsilateral breast found during a routine mammogram and confirmed by breast magnetic resonance imaging (MRI)",
+            "ECOG<sup>§</sup> Performance Status: 0"
+                ]
+        },
+        "imaging": {
+            "row": [
+                "Bone scan, brain MRI, and computed tomography (CT) scans of the chest, pelvis, and abdomen are performed",
+            "CT scan of the chest reveals a small volume pleural effusion on the left side<sup>||</sup>",
+            "No evidence of other metastatic disease"
+                ]
+        },
+        "testing": {
+            "row": [
+                "Biopsy of breast mass confirms metastatic disease with <br />estrogen receptor (ER)+/progesterone receptor (PgR)+, human <br />epidermal growth factor receptor-2 (HER2) negative status <br />with pathology consistent with primary tumor",
+            "Thoracentesis:<ul><li class=\"dash\">Cytology shows malignant cells with ER+/PgR+, HER2- status</li></ul>",
+            "Laboratory values:<ul><li class=\"dash\">Routine chemistries are normal</li><li class=\"dash\">Elevated cancer antigen CA 27.29: 44 U/mL </li></ul>"
+                ]
+        },
+        "footnotes": {
+            "row": [
+                "<sup>*</sup>Recurrence during or within 12 months of completing adjuvant hormonal therapy (tamoxifen).<br>",
+            "<sup>†</sup><b><span style=\"font-family: arial; font-weight: bold;\">CO</span></b>mpariso<b>N</b> of <b>F</b>ASLODEX <b>I</b>n <b>R</b>ecurrent or <b>M</b>etastatic Breast Cancer.<sup>2</sup><br>",
+            "<sup>‡</sup>Total number of patients=736. Patients with multiple lesions in the same site are<br /><div class=\"adjustRight\">counted only once in that site.<sup>1</sup></div>",
+            "<sup>§</sup>Eastern Cooperative Oncology Group.<br />",
+            "<sup>||</sup>With kind permission from Springer Science+Business Media: <i>Medical Oncology</i>, Systemic <br /><span class=\"adjustRight\">chemotherapy of TS-1 and cisplatin for gastric signet-ring cell carcinoma presenting as</span> <br /><span class=\"adjustRight\">cardiac tamponade, vol 25, 2008, p242, Kusaba H et al, Figure 3, © Humana Press Inc. 2007.</span>"
+                ]
+        },
+        "references": {
+            "row": [
+                "Data on File, 1390903. AstraZeneca Pharmaceuticals LP.",
+            "Di Leo A, Jerusalem G, Petruzelka L, et al. Results of the CONFIRM phase III trial comparing fulvestrant <br />250 mg with fulvestrant 500 mg in postmenopausal women with estrogen receptor–positive advanced <br />breast cancer. <i>J Clin Oncol.</i> 2010;28(30):4594-4600."
+                                                                                                                                                                                                                                                                                  ]
+        }
+    },
+    {
+        "id": "23",
+        "title": "G.B.",
+        "age": "60",
+        "file": "patient-023.xml",
+        "progType":"Progression",
+        "timeValue":2,
+        "prog": "&gt;12 Months<sup>*</sup>",
+        "siteValue": 3,
+        "loc": "Skin/Soft Tissue and Pleura",
+        "symp": "Asymptomatic",
+        "symptomValue":2,
+        "image": { "src": "images/profiles/23.png" },
+        "banner": "<b><span>14.9<span class=\"percentage\">%</span></span> of CONFIRM<sup>†</sup> patients had any<br/>skin/soft-tissue metastases at baseline.</b><sup>1,‡</sup>",
+        "summary": "<ul><li>60 years of age</li><li>Recurrence &gt;12 months after completion of adjuvant therapy</li><li>Skin/soft tissue and pleura metastases</li><li>Asymptomatic</li></ul>",
+        "status": {
+            "row": [
+                "Asymptomatic woman aged 60 years with a history of breast cancer treated with a left mastectomy ",
+            "Completed 5 years of adjuvant hormonal therapy (HT) (tamoxifen) 25&nbsp;months ago",
+            "Skin and soft-tissue metastases found",
+            "During routine clinical exam, 2 separate 0.5-cm nodules in the mastectomy scar tissue and a solitary 1.2-cm nodule in the skin of the left upper abdominal quadrant are detected; biopsy shows metastatic breast cancer",
+            "Tamoxifen started and patient progressed 6 months later with identical, multiple skin lesions seen on abdomen",
+            "ECOG<sup>§</sup> Performance Status: 0"
+                ]
+        },
+        "imaging": {
+            "row": [
+                "Chest/abdominal/pelvic computed tomography (CT) scans and bone scan reveal a new, small-volume right pleural effusion<sup>||</sup>",
+            "No evidence of other metastatic disease"
+                ]
+        },
+        "testing": {
+            "row": [
+                "Thoracentesis shows malignant cells and cell block shows metastatic disease with estrogen receptor (ER)+/progesterone receptor (PgR)+, human epidermal growth factor receptor-2 (HER2) negative status; pathology consistent with primary tumor",
+            "Laboratory values:<ul><li class=\"dash\">Elevated cancer antigen CA 27.29: 40 U/mL</li><li class=\"dash\">Normal liver function tests</li></ul>"
+                ]
+        },
+        "footnotes": {
+            "row": [
+                "<sup>*</sup>Recurrence >12 months after completion of adjuvant hormonal therapy (tamoxifen) and progression<br /><div class=\"adjustRight\">after hormonal therapy (tamoxifen) for advanced disease.</div>",
+            "<sup>†</sup><b><span style=\"font-family: arial; font-weight: bold;\">CO</span></b>mpariso<b>N</b> of <b>F</b>ASLODEX <b>I</b>n <b>R</b>ecurrent or <b>M</b>etastatic Breast Cancer.<sup>2</sup><br>",
+            "<sup>‡</sup>Total number of patients=736. Patients with multiple lesions in the same site are<br><div class=\"adjustRight\">counted only once in that site.<sup>1</sup></div>",
+            "<sup>§</sup>Eastern Cooperative Oncology Group.",
+            "<br /><sup>||</sup>Republished with permission of <em>The Internet Journal of Pulmonary Medicine</em>, from Mantle<br><div class=\"adjustRight\">Cell Lymphoma Presenting With Persistent Pleural Effusion and Severe Thrombocytopenia.<br />Papaioannou AI, Kostikas K, Tzovaras N, et al. 6(2):2006; permission conveyed through<br />Copyright Clearance Center, Inc.</div>"
+                ]
+        },
+        "references": {
+            "row": [
+                "Data on File, 1390903. AstraZeneca Pharmaceuticals LP.",
+            "Di Leo A, Jerusalem G, Petruzelka L, et al. Results of the CONFIRM phase III trial comparing fulvestrant <br />250 mg with fulvestrant 500 mg in postmenopausal women with estrogen receptor–positive advanced <br />breast cancer. <i>J Clin Oncol.</i> 2010;28(30):4594-4600."
+                                                                                                                                                                                                                                                                                  ]
+        }
+    },
+    {
+        "id": "24",
+        "title": "F.T.",
+        "age": "70",
+        "file": "patient-024.xml",
+        "progType":"Progression",
+        "timeValue":2,
+        "prog": "&gt;12 Months<sup>*</sup>",
+        "siteValue": 1,
+        "loc": "Bone",
+        "symp": "Asymptomatic",
+        "symptomValue":2,
+        "image": { "src": "images/profiles/24.png" },
+        "banner": "<b><span>22.3<span class=\"percentage\">%</span></span> of CONFIRM<sup>†</sup> patients had bone-only<br/>metastases at baseline.</b><sup>1,‡</sup>",
+        "summary": "<ul><li>70 years of age</li><li>Recurrence &gt;12 months after completion of adjuvant therapy</li><li>Bone metastases</li><li>Asymptomatic</li></ul>",
+        "status": {
+            "row": [
+                "Woman aged 70 years with a history of breast cancer ",
+            "Completed 5 years of adjuvant hormonal therapy (HT) (tamoxifen) 20&nbsp;months ago",
+            "Woman fell resulting in evaluation of a bruised right hip; imaging showed 2 small lytic lesions to right hip<ul><li class=\"dash\">Bone metastases confirmed via bone scan and biopsy</li></ul>",
+            "Tamoxifen started and patient progressed 6 months later <br />based on surveillance scan",
+            "ECOG<sup>§</sup> Performance Status: 0"
+                ]
+        },
+        "imaging": {
+            "row": [
+                "X-ray image of pelvic area reveals 3 small lytic lesions to right hip",
+            "Chest/pelvic/abdominal computed tomography (CT) scans and bone scan confirm pelvic bone lesions, which are consistent with metastatic disease; no evidence of other metastatic disease "
+                ]
+        },
+        "testing": {
+            "row": [
+                "Biopsy of bone tissue confirms metastatic disease with estrogen receptor (ER)+/progesterone receptor (PgR)+, human epidermal growth factor receptor-2 (HER2) negative status; pathology consistent with primary tumor ",
+            "Laboratory values:<ul><li class=\"dash\">Elevated cancer antigen CA 27.29: 84 U/mL</li><li class=\"dash\">Normal liver function tests</li></ul>"
+                ]
+        },
+        "footnotes": {
+            "row": [
+                "<sup>*</sup>Recurrence >12 months after completion of adjuvant hormonal therapy (tamoxifen) and progression<br /><div class=\"adjustRight\">after hormonal therapy (tamoxifen) for advanced disease.</div>",
+            "<sup>†</sup><b><span style=\"font-family: arial; font-weight: bold;\">CO</span></b>mpariso<b>N</b> of <b>F</b>ASLODEX <b>I</b>n <b>R</b>ecurrent or <b>M</b>etastatic Breast Cancer.<sup>2</sup><br>",
+            "<sup>‡</sup>Total number of patients=736. Patients with multiple lesions in the same site are<br><div class=\"adjustRight\">counted only once in that site.<sup>1</sup></div>",
+            "<sup>§</sup>Eastern Cooperative Oncology Group."
+                ]
+        },
+        "references": {
+            "row": [
+                "Data on File, 1196503. AstraZeneca Pharmaceuticals LP.",
+            "Di Leo A, Jerusalem G, Petruzelka L, et al. Results of the CONFIRM phase III trial comparing fulvestrant <br />250 mg with fulvestrant 500 mg in postmenopausal women with estrogen receptor–positive advanced <br />breast cancer. <i>J Clin Oncol.</i> 2010;28(30):4594-4600."
+                                                                                                                                                                                                                                                                                  ]
+        }
+    },
+    {
+        "id": "25",
+        "title": "B.R.",
+        "age": "64",
+        "file": "patient-025.xml",
+        "progType": "Recurrence",
+        "timeValue":1,
+        "prog": "&le;12 Months<sup>*</sup>",
+        "siteValue": 1,
+        "loc": "Bone",
+        "symp": "Mild/Moderate",
+        "symptomValue":1,
+        "image": { "src": "images/profiles/25.png" },
+        "banner": "<b><span>22.3<span class=\"percentage\">%</span></span> of CONFIRM<sup>†</sup> patients had bone-only<br/>metastases at baseline.</b><sup>1,‡</sup>",
+        "summary": "<ul><li>64 years of age</li><li>Recurrence &le;12 months postadjuvant therapy</li><li>Bone metastases</li><li>Mild/moderate symptoms</li></ul>",
+        "status": {
+            "row": [
+                "Woman aged 64 years with a history of breast cancer presents with back pain and occasional weakness in legs 11 months after completion of 5 years of adjuvant hormonal therapy (HT) (tamoxifen)",
+            "ECOG<sup>§</sup> Performance Status: 1"
+                ]
+        },
+        "imaging": {
+            "row": [
+                "Radionuclide bone scan, brain/spinal magnetic resonance imaging (MRI), and chest/pelvic/abdominal computed tomography (CT) scans show spinal cord compression caused <br />by 2 lesions in the thoracic&nbsp;vertebrae",
+            "No evidence of other metastatic disease"
+                ]
+        },
+        "testing": {
+            "row": [
+                "Bone tissue confirms metastatic disease with estrogen receptor (ER)+/progesterone receptor (PgR)+, human epidermal growth factor receptor-2 (HER2) negative status with pathology consistent with primary tumor",
+            "Laboratory values:<ul><li class=\"dash\">Elevated cancer antigen CA 27.29: 80 U/mL</li><li class=\"dash\">Normal liver function tests</li></ul>"
+                ]
+        },
+        "footnotes": {
+            "row": [
+                "<sup>*</sup>Recurrence during or within 12 months of completing adjuvant hormonal therapy (tamoxifen).<br>",
+            "<sup>†</sup><b><span style=\"font-family: arial; font-weight: bold;\">CO</span></b>mpariso<b>N</b> of <b>F</b>ASLODEX <b>I</b>n <b>R</b>ecurrent or <b>M</b>etastatic Breast Cancer.<sup>2</sup><br>",
+            "<sup>‡</sup>Total number of patients=736. Patients with multiple lesions in the same site are<br><div class=\"adjustRight\">counted only once in that site.<sup>1</sup></div>",
+            "<sup>§</sup>Eastern Cooperative Oncology Group."
+                ]
+        },
+        "references": {
+            "row": [
+                "Data on File, 1196503. AstraZeneca Pharmaceuticals LP.",
+            "Di Leo A, Jerusalem G, Petruzelka L, et al. Results of the CONFIRM phase III trial comparing fulvestrant <br />250 mg with fulvestrant 500 mg in postmenopausal women with estrogen receptor–positive advanced <br />breast cancer. <i>J Clin Oncol.</i> 2010;28(30):4594-4600."
+                                                                                                                                                                                                                                                                                  ]
+        }
+    },
+    {
+        "id": "26",
+        "title": "W.S.",
+        "age": "61",
+        "file": "patient-026.xml",
+        "progType": "Recurrence",
+        "timeValue":1,
+        "prog": "&le;12 Months<sup>*</sup>",
+        "siteValue": 1,
+        "loc": "Bone",
+        "symp": "Asymptomatic",
+        "symptomValue":2,
+        "image": { "src": "images/profiles/26.png" },
+        "summary": "<ul><li>61 years of age</li><li>Recurrence &le;12 months postadjuvant therapy</li><li>Bone metastases</li><li>Asymptomatic</li></ul>",
+        "banner": "<b><span>22.3<span class=\"percentage\">%</span></span> of CONFIRM<sup>†</sup> patients had bone-only<br/>metastases at baseline.</b><sup>1,‡</sup>",
+        "status": {
+            "row": [
+                "Asymptomatic woman aged 61 years with a history of breast cancer",
+            "5 years of adjuvant hormonal therapy (HT) (tamoxifen) completed 3 months ago",
+            "Bone metastases (right ribs) found<ul><li class=\"dash\">Patient has fall; x-ray reveals 2 small abnormalities on ribs</li><li class=\"dash\">Bone scan is suggestive of metastatic disease</li></ul>",
+            "ECOG<sup>§</sup> Performance Status: 0"
+                ]
+        },
+        "imaging": {
+            "row": [
+                "Chest/pelvic/abdominal computed tomography (CT) scans are consistent with abnormalities on bone scan and show 2 sclerotic lesions on right ribs",
+            "No evidence of other metastatic disease"
+                ]
+        },
+        "testing": {
+            "row": [
+                "<span class=\"no_bottom_padding\">Bone biopsy of rib confirms malignancy. Estrogen receptor (ER)+/progesterone receptor (PgR)+, human epidermal growth factor receptor-2 (HER2) negative status, with pathology consistent with primary tumor",
+            "Laboratory values:<ul><li class=\"dash\">Elevated cancer antigen CA 27.29: 79 U/mL</li><li class=\"dash\">Normal liver function tests</li></ul>"
+                ]
+        },
+        "footnotes": {
+            "row": [
+                "<sup>*</sup>Recurrence during or within 12 months of completing adjuvant hormonal therapy (tamoxifen).<br>",
+            "<sup>†</sup><b><span style=\"font-family: arial; font-weight: bold;\">CO</span></b>mpariso<b>N</b> of <b>F</b>ASLODEX <b>I</b>n <b>R</b>ecurrent or <b>M</b>etastatic Breast Cancer.<sup>2</sup><br>",
+            "<sup>‡</sup>Total number of patients=736. Patients with multiple lesions in the same site are<br><div class=\"adjustRight\">counted only once in that site.<sup>1</sup></div>",
+            "<sup>§</sup>Eastern Cooperative Oncology Group.<br>"
+                ]
+        },
+        "references": {
+            "row": [
+                "Data on File, 1196503. AstraZeneca Pharmaceuticals LP.",
+            "Di Leo A, Jerusalem G, Petruzelka L, et al. Results of the CONFIRM phase III trial comparing fulvestrant <br />250 mg with fulvestrant 500 mg in postmenopausal women with estrogen receptor–positive advanced <br />breast cancer. <i>J Clin Oncol.</i> 2010;28(30):4594-4600."
+                                                                                                                                                                                                                                                                                  ]
+        }
+    },
+    {
+        "id": "27",
+        "title": "R.K.",
+        "age": "71",
+        "file": "patient-027.xml",
+        "progType": "Recurrence",
+        "timeValue":1,
+        "prog": "&le;12 Months<sup>*</sup>",
+        "siteValue": 1,
+        "loc": "Bone",
+        "symp": "Mild/Moderate",
+        "symptomValue":1,
+        "image": { "src": "images/profiles/27.png" },
+        "banner": "<b><span>22.3<span class=\"percentage\">%</span></span> of CONFIRM<sup>†</sup> patients had bone-only<br/>metastases at baseline.</b><sup>1,‡</sup>",
+        "summary": "<ul><li>71 years of age</li><li>Recurrence &le;12 months postadjuvant therapy</li><li>Bone metastases</li><li>Mild/moderate symptoms</li></ul>",
+        "status": {
+            "row": [
+                "Woman aged 71 years with a history of breast cancer",
+            "Completed 5 years of adjuvant hormonal therapy (HT) (tamoxifen) 9 months ago",
+            "Complains of pain in right hip and upper leg for past 6 weeks as well as fatigue; pain is dull and persistent, but unaffected by activity",
+            "ECOG<sup>§</sup> Performance Status: 1"
+                ]
+        },
+        "imaging": {
+            "row": [
+                "X-rays of the hip and pelvis show 3 small lytic lesions in right ilium",
+            "Chest/pelvic/abdominal computed tomography (CT) scans confirm the presence of the ilial lesions but no other abnormalities are identified<sup>||</sup>",
+            "Bone scan shows no evidence of other metastatic disease"
+                ]
+        },
+        "testing": {
+            "row": [
+                "Bone biopsy confirms metastatic disease. Estrogen receptor (ER)+/progesterone receptor (PgR)+, human epidermal growth factor receptor-2 (HER2) negative status, with pathology consistent with primary tumor",
+            "Laboratory values:<ul><li class=\"dash\">Elevated cancer antigen CA 27.29: 92 U/mL</li><li class=\"dash\">Normal liver function tests</li></ul>"
+                ]
+        },
+        "footnotes": {
+            "row": [
+                "<sup>*</sup>Recurrence during or within 12 months of completing adjuvant hormonal therapy (tamoxifen).<br>",
+            "<sup>†</sup><b><span style=\"font-family: arial; font-weight: bold;\">CO</span></b>mpariso<b>N</b> of <b>F</b>ASLODEX <b>I</b>n <b>R</b>ecurrent or <b>M</b>etastatic Breast Cancer.<sup>2</sup><br>",
+            "<sup>‡</sup>Total number of patients=736. Patients with multiple lesions in the same site are<br><div class=\"adjustRight\">counted only once in that site.<sup>1</sup></div>",
+            "<sup>§</sup>Eastern Cooperative Oncology Group.<br>",
+            "<sup>||</sup>Reprinted with permission from Diagnostic Imaging."
+                ]
+        },
+        "references": {
+            "row": [
+                "Data on File, 1196503. AstraZeneca Pharmaceuticals LP.",
+            "Di Leo A, Jerusalem G, Petruzelka L, et al. Results of the CONFIRM phase III trial comparing fulvestrant <br />250 mg with fulvestrant 500 mg in postmenopausal women with estrogen receptor–positive advanced <br />breast cancer. <i>J Clin Oncol.</i> 2010;28(30):4594-4600."
+                                                                                                                                                                                                                                                                                  ]
+        }
+    },
+    {
+        "id": "28",
+        "title": "L.S.",
+        "age": "62",
+        "file": "patient-028.xml",
+        "progType":"Progression",
+        "timeValue":2,
+        "prog": "&gt;12 Months<sup>*</sup>",
+        "siteValue": 1,
+        "loc": "Bone",
+        "symp": "Asymptomatic",
+        "symptomValue":2,
+        "image": { "src": "images/profiles/28.png" },
+        "banner": "<b><span>61.0<span class=\"percentage\">%</span></span> of CONFIRM<sup>†</sup> patients had any bone<br/>metastases at baseline.</b><sup>1,‡</sup>",
+        "summary": "<ul><li>62 years of age</li><li>Recurrence &gt;12 months after completion of adjuvant therapy</li><li>Bone metastases</li><li>Asymptomatic</li></ul>",
+        "status": {
+            "row": [
+                "Asymptomatic woman aged 62 years with a history of breast cancer",
+            "Patient had completed adjuvant hormonal therapy (HT) (tamoxifen) 18 months ago",
+            "Woman was involved in auto accident and complained of shoulder and arm pain as a result; x-rays incidentally showed abnormalities of the right humerus not associated with symptoms<ul><li class=\"dash\">Magnetic resonance imaging (MRI) was highly suggestive <br />of bone metastases</li></ul>",
+            "Tamoxifen was started and patient progressed 13 months later based on surveillance bone scan",
+            "ECOG<sup>§</sup> Performance Status: 0"
+                ]
+        },
+        "imaging": {
+            "row": [
+                "Radionuclide bone scan and MRI show progression of metastatic disease in right humerus<sup>||</sup>",
+            "No evidence of other metastatic disease"
+                ]
+        },
+        "testing": {
+            "row": [
+                "Biopsy of bone tissue confirms metastatic disease. Estrogen receptor (ER)+/progesterone receptor (PgR)+, human epidermal growth factor receptor-2 (HER2) negative status, with pathology consistent with primary tumor",
+            "Laboratory values:<ul><li class=\"dash\">Elevated cancer antigen CA 27.29: 85 U/mL</li><li class=\"dash\">Normal liver function tests</li></ul>"
+                ]
+        },
+        "footnotes": {
+            "row": [
+                "<sup>*</sup>Recurrence >12 months after completion of adjuvant hormonal therapy (tamoxifen) and progression<br /><div class=\"adjustRight\">after hormonal therapy (tamoxifen) for advanced disease.</div>",
+            "<sup>†</sup><b><span style=\"font-family: arial; font-weight: bold;\">CO</span></b>mpariso<b>N</b> of <b>F</b>ASLODEX <b>I</b>n <b>R</b>ecurrent or <b>M</b>etastatic Breast Cancer.<sup>2</sup><br>",
+            "<sup>‡</sup>Total number of patients=736. Patients with multiple lesions in the same site are<br><div class=\"adjustRight\">counted only once in that site.<sup>1</sup></div>",
+            "<sup>§</sup>Eastern Cooperative Oncology Group.<br>",
+            "<sup>||</sup>From Kim SY, et al. <i>Korean J Pain</i>. 2011;24(2):119-122. © 2011 The Korean Pain Society, <div class=\"adjustRight\">reproduced with permission."
+                                                                               ]
+        },
+        "references": {
+            "row": [
+                "Data on File, 1390903. AstraZeneca Pharmaceuticals LP.",
+            "Di Leo A, Jerusalem G, Petruzelka L, et al. Results of the CONFIRM phase III trial comparing fulvestrant <br />250 mg with fulvestrant 500 mg in postmenopausal women with estrogen receptor–positive advanced <br />breast cancer. <i>J Clin Oncol.</i> 2010;28(30):4594-4600."
+                                                                                                                                                                                                                                                                                  ]
+        }
+    },
+    {
+        "id": "29",
+        "title": "J.Q.",
+        "age": "73",
+        "file": "patient-029.xml",
+        "progType":"Progression",
+        "timeValue":2,
+        "prog": "&gt;12 Months<sup>*</sup>",
+        "siteValue": 1,
+        "loc": "Bone",
+        "symp": "Mild/Moderate",
+        "symptomValue":1,
+        "image": { "src": "images/profiles/29.png" },
+        "banner": "<b><span>61.0<span class=\"percentage\">%</span></span> of CONFIRM<sup>†</sup> patients had any bone<br/>metastases at baseline.</b><sup>1,‡</sup>",
+        "summary": "<ul><li>73 years of age</li><li>Recurrence &gt;12 months after completion of adjuvant therapy</li><li>Bone metastases</li><li>Mild/moderate symptoms</li></ul>",
+        "status": {
+            "row": [
+                "73-year-old woman with a history of breast cancer",
+            "Patient had completed 5 years of adjuvant hormonal therapy (HT) (tamoxifen) 16 months ago",
+            "Presented with localized, non-radiating pain in center of <br />chest; tenderness on palpation over sternum, normal electrocardiography (EKG)",
+            "Bone scan and magnetic resonance imaging (MRI) suggested metastatic disease localized to sternum with 1 lytic lesion",
+            "Tamoxifen started and patient progressed 14 months later and experienced a return of chest pain",
+            "Patient had prior radiation to chest",
+            "ECOG<sup>§</sup> Performance Status: 1"
+                ]
+        },
+        "imaging": {
+            "row": [
+                "Bone scan and MRI reveal increase in size of lytic lesion in sternum compared to scan 6 months prior",
+            "No evidence of other metastatic disease"
+                ]
+        },
+        "testing": {
+            "row": [
+                "Bone biopsy confirms metastatic disease. Estrogen receptor (ER)+/progesterone receptor (PgR)+, human epidermal growth factor receptor-2 (HER2) negative status, with pathology consistent with primary tumor",
+            "Laboratory values:<ul><li class=\"dash\">Elevated cancer antigen CA 27.29: 81 U/mL </li><li class=\"dash\">Normal liver function tests</li></ul>"
+                ]
+        },
+        "footnotes": {
+            "row": [
+                "<sup>*</sup>Recurrence >12 months after completion of adjuvant hormonal therapy (tamoxifen) and progression<br /><div class=\"adjustRight\">after hormonal therapy (tamoxifen) for advanced disease.</div>",
+            "<sup>†</sup><b><span style=\"font-family: arial; font-weight: bold;\">CO</span></b>mpariso<b>N</b> of <b>F</b>ASLODEX <b>I</b>n <b>R</b>ecurrent or <b>M</b>etastatic Breast Cancer.<sup>2</sup><br>",
+            "<sup>‡</sup>Total number of patients=736. Patients with multiple lesions in the same site are<br><div class=\"adjustRight\">counted only once in that site.<sup>1</sup></div>",
+            "<sup>§</sup>Eastern Cooperative Oncology Group.<br>"
+                ]
+        },
+        "references": {
+            "row": [
+                "Data on File, 1390903. AstraZeneca Pharmaceuticals LP.",
+            "Di Leo A, Jerusalem G, Petruzelka L, et al. Results of the CONFIRM phase III trial comparing fulvestrant <br />250 mg with fulvestrant 500 mg in postmenopausal women with estrogen receptor–positive advanced <br />breast cancer. <i>J Clin Oncol.</i> 2010;28(30):4594-4600."
+                                                                                                                                                                                                                                                                                  ]
+        }
+    }
+    ]
+}

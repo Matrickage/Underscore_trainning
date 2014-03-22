@@ -1,0 +1,93 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Testing</title>
+</head>
+
+<script type="text/javascript" src="js/jquery-2.1.0.js"></script>
+<script type="text/javascript" src="js/underscore.js"></script>
+
+
+<body>
+	<h1>eo</h1>
+<script type="text/template" class="template">
+		
+
+		<h2 class="title">
+			<%- frutes.listTitle %>
+		</h2>
+
+		<% _.each( frutes.listItems, function( listItem ){ %>
+
+				<li>
+
+					<%- listItem.name %>
+
+					<% if ( listItem.nacional ){ %>
+						<em>nacional</em>
+					<% } %>
+					
+					<% if( listItem.tipo == 'fresca' ) { %>
+						<span style='color:green;'><%-listItem.tipo%> </span>
+					<% }else if( listItem.tipo == 'pasada' ) { %>
+						<span style='color:red;'><%- listItem.tipo %></span>
+					<% } %>
+
+
+				</li>
+
+			<% }); %>
+			<%- _.pluck(frutes.listItems, 'name')%>
+			<br>
+			<%- frutes.listItems[0].name %>
+
+
+</script>
+<script type="text/javascript">
+
+_.templateSettings.variable = "frutes";
+
+var template = _.template(
+			$( "script.template" ).html()
+		);
+
+
+var templateData = {
+			listTitle: "Lista de Frutas",
+			listItems: [
+				{
+					name: "Manzana",
+					tipo: "fresca",
+					nacional: true
+				},
+				{
+					name: "Platano",
+					tipo: "pasada",
+					nacional: true
+				},
+				{
+					name: "Pera",
+					tipo: "fresca",
+					nacional: false
+				},
+				{
+					name: "Melón",
+					tipo: "fresca",
+					nacional: false
+				}
+			]
+		};
+
+$( "h1" ).after(
+			template( templateData )
+		);
+
+ 
+</script>
+<script>
+$('.title').bind("click",function(){
+});
+</script>
+</body>
+</html>
